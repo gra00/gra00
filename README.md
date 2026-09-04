@@ -1,7 +1,7 @@
 # Hi, I'm Graziano Zinna 👋
-> *"It's not who I am underneath, but what I do that defines me"*
 
-**Computer Science Student (L-31) | Cybersecurity **  
+
+**Computer Science Student (L-31) | Cybersecurity**  
 📍 Catania, Italy
 
 ---
