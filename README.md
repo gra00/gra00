@@ -1,18 +1,17 @@
 # Hi, I'm Graziano Zinna 👋
 > *"It's not who I am underneath, but what I do that defines me"*
 
-**Computer Science Student (L-31) | Cybersecurity & Systems Enthusiast**  
+**Computer Science Student (L-31) | Cybersecurity **  
 📍 Catania, Italy
 
 ---
 
 ### ⚡ About Me
 
-- 🎓 Completing my **B.Sc. in Computer Science** at the **University of Catania**.
-- 🔐 Strong focus on **Cybersecurity** (Automotive Security, STRIDE threat modeling, VAPT, Forensics) and **Applied Systems**.
-- 🛠️ Freelance Software Developer since 2019, building bespoke desktop and software solutions in **C, C++**, and **Python**.
-- 🧠 Regularly practicing on **TryHackMe** and sharpening algorithmic problem-solving on **LeetCode**.
-- ☁️ **AWS Certified Cloud Practitioner**.
+- 🎓 B.Sc. in Computer Science candidate at the **University of Catania**.
+- 🛠️ Solid foundation in **data structures, algorithms, and core OS concepts**.
+- 🔒 Practical experience in **automotive cybersecurity, digital forensics, and defensive mitigations**.
+- 💡 Actively working on personal implementations, technical writeups, and intelligent software systems.
 
 ---
 
@@ -46,7 +45,7 @@
 
 | Project / Activity | Domain & Tech | Highlights |
 | :--- | :--- | :--- |
-| **[SCAR4SUD Automotive Security](https://github.com/gra00)** | `STRIDE` • `In-Vehicle Networks` • `GDPR` | Threat analysis on connected vehicles, ECU protective measures, and security/privacy by design (Art. 25 & 32). |
+| **[SCAR4SUD Automotive Security](https://github.com/gra00)** | `STRIDE` • `In-Vehicle Networks` • `GDPR` | Threat analysis on connected vehicles, ECU protective measures, and security. |
 | **[Image Processing App](https://github.com/gra00)** | `Python` • `PyQt5` • `FFT` | Interactive GUI for real-time image manipulations, rotations, mirroring, and Fourier transform frequency-domain filtering. |
 | **[VAPT & CTF Exploitation](https://github.com/gra00)** | `Burp Suite` • `Nmap` • `Fuzzing` | End-to-end vulnerability assessment: OSINT, network discovery, target fuzzing, and custom exploit execution with PoC reporting. |
 | **[Digital Forensics Simulation](https://github.com/gra00)** | `Amped FIVE` • `Forensic Standards` | Technical forensic video/image analysis simulation structured for court-admissible reporting. |
@@ -62,11 +61,4 @@
 
 ---
 
-### 📊 GitHub Activity
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=gra00&show_icons=true&theme=tokyonight&hide_border=true" alt="Graziano's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gra00&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
-</p>
-
----
