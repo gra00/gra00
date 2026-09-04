@@ -2,7 +2,6 @@
 
 
 **Computer Science Student (L-31) | Cybersecurity**  
-📍 Catania, Italy
 
 ---
 
